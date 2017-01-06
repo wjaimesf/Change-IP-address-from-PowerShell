@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<IPv4>
+    <Net_1>
+        <IP>10.5.48.18</IP>
+        <MaskBits>24</MaskBits>
+        <Gateway>10.5.48.1</Gateway>
+        <DNS>8.8.8.8</DNS>
+    </Net_1>
+    <Net_2>
+        <IP>192.168.31.200</IP>
+        <MaskBits>24</MaskBits>
+        <Gateway>192.168.31.1</Gateway>
+        <DNS>8.8.8.8</DNS>
+    </Net_2>
+</IPv4>
